@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "nameCourse": "How to make meatball",
+        "description": "Tutorial membuat bakso",
+        "duration": "5",
+        "AdminId": 1
+    },
+    {
+        "id": 2,
+        "nameCourse": "Basic Barista Skill",
+        "description": "How to be a good barista, learn all about how to make a good coffee",
+        "duration": "5",
+        "AdminId": 4
+    },
+    {
+        "id": 3,
+        "nameCourse": "Simple HTML",
+        "description": "How to make basic website using HTML",
+        "duration": "5",
+        "AdminId": 2
+    },
+    {
+        "id": 4,
+        "nameCourse": "Rock Climbing Skill",
+        "description": "Learn how to be a rock climbing proffesional",
+        "duration": "5",
+        "AdminId": 3
+    },
+    {
+        "id": 5,
+        "nameCourse": "Simple CSS",
+        "description": "How to make basic website looks prettier using CSS",
+        "duration": "5",
+        "AdminId": 2
+    },
+    {
+        "id": 6,
+        "nameCourse": "Latte Art",
+        "description": "Learn how to make a good latte art with a proffesional barista",
+        "duration": "5",
+        "AdminId": 4
+    },
+    {
+        "id": 7,
+        "nameCourse": "F&B Businnes",
+        "description": "Learn how to run a bussiness in F&B",
+        "duration": "5",
+        "AdminId": 5
+    }
+]

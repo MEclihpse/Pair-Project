@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "firstName": "Bambang",
+        "lastName": "Kuswoyo",
+        "bio": "Pecinta bakso",
+        "picture": "https://thumbs.dreamstime.com/b/profile-picture-vector-perfect-social-media-other-web-use-125320944.jpg",
+        "AdminId": 1
+    },
+    {
+        "id": 2,
+        "firstName": "Dika",
+        "lastName": "Effendi",
+        "bio": "Programmer mager",
+        "picture": "https://thumbs.dreamstime.com/b/profile-picture-vector-perfect-social-media-other-web-use-125320944.jpg",
+        "AdminId": 2
+    },
+    {
+        "id": 3,
+        "firstName": "Santoso",
+        "lastName": "Nugroho",
+        "bio": "Proffesional Mountain Climber",
+        "picture": "https://thumbs.dreamstime.com/b/profile-picture-vector-perfect-social-media-other-web-use-125320944.jpg",
+        "AdminId": 3
+    },
+    {
+        "id": 4,
+        "firstName": "Supriyadi",
+        "lastName": "Jamaludin",
+        "bio": "Adicted to Coffee",
+        "picture": "https://thumbs.dreamstime.com/b/profile-picture-vector-perfect-social-media-other-web-use-125320944.jpg",
+        "AdminId": 4
+    },
+    {
+        "id": 5,
+        "firstName": "Nada",
+        "lastName": "Nadya",
+        "bio": "F&B Trainer",
+        "picture": "https://dl.memuplay.com/new_market/img/com.vicman.newprofilepic.icon.2022-06-07-21-33-07.png",
+        "AdminId": 5
+    }
+]

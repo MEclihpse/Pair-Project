@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "email": "bambang@gmail.com",
+        "username": "bamz212",
+        "password": "bambang123",
+        "role": "Super Admin"
+    },
+    {
+        "id": 2,
+        "email": "dika@gmail.com",
+        "username": "dikadika",
+        "password": "dikanya2kali",
+        "role": "Admin"
+    },
+    {
+        "id": 3,
+        "email": "santoso@gmail.com",
+        "username": "santoz",
+        "password": "santoz1212",
+        "role": "Admin"
+    },
+    {
+        "id": 4,
+        "email": "supri@gmail.com",
+        "username": "supriyadi",
+        "password": "sups5555",
+        "role": "Admin"
+    },
+    {
+        "id": 5,
+        "email": "nadandy@gmail.com",
+        "username": "nada",
+        "password": "nadandy98",
+        "role": "Admin"
+    }
+]
